@@ -1,1 +1,2 @@
 # movie-recommendation-system
+Built in R using collaborative filtering techniques—both user-based and item-based—to generate personalised movie recommendations. Wields the recommenderlab package to process and interpret real-world user rating data, enabling accurate preference-based suggestions. Handled sparse matrices, and model performance is evaluated through visualizations and exploratory statistics.
